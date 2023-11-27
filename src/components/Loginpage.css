@@ -1,0 +1,49 @@
+body {
+   
+    background-size: cover;
+    margin: 0; 
+    font-family: 'Arial', sans-serif; /* Add a fallback font family */
+}
+
+.containerlogin {
+    margin: 200px auto; /* Center the container horizontally */
+    width: 400px;
+    height: 300px;
+    background-color: #778899; /* Use a named color or hex code */
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #808080; /* Specify the border size and use a named color or hex code */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+}
+
+/* Add hover effect for better user interaction */
+/* .containerlogin:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+} */
+
+/* Style the input fields inside the container */
+/* .containerlogin input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+} */
+
+/* Style the submit button */
+/* .containerlogin button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4682b4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+} */
+
+/* Add hover effect for the submit button */
+/* .containerlogin button:hover {
+    background-color: #35586c;
+} */

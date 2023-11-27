@@ -1,0 +1,15 @@
+.homediv{
+    margin-left: 300px;
+}
+table{
+    margin-top: 10px;
+}
+tr,td,th{
+   padding: 10px;
+   border-collapse:collapse;
+   border: 1px solid black;
+}
+*{
+    background: 'https://pin.it/1ilRe25';
+
+}
